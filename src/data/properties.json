@@ -1,156 +1,162 @@
 [
   {
     "id": 1,
-    "type": "house",
+    "type": "House",
+    "title": "Beautiful Family Home",
     "price": 450000,
     "bedrooms": 3,
-    "dateAdded": "2025-11-15",
+    "location": "Bromley, London",
     "postcode": "BR1",
-    "title": "Beautiful Family House in Bromley",
-    "description": "A stunning 3-bedroom family home with modern interiors",
-    "longDescription": "This beautiful property features spacious living areas, a modern kitchen, three generous bedrooms, and a lovely garden. Perfect for families looking for comfort and style in a great location.",
-    "location": "Bromley, London BR1",
+    "description": "A beautiful 3-bedroom house in a quiet neighborhood",
+    "longDescription": "This stunning 3-bedroom house offers spacious living areas, modern kitchen, and a lovely garden. Perfect for families looking for comfort and convenience.",
     "images": [
-  "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
-  "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
-  "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
-  "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
-  "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800",
-  "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600"
-
+      "/images/property1_exterior.jpg",
+      "/images/property1_livingroom.jpg",
+      "/images/property1_bedroom1.jpg",
+      "/images/property1_bedroom2.jpg",
+      "/images/property1_bedroom3.jpg",
+      "/images/property1_kitchen.jpg",
+      "/images/property1_bathroom.jpg"
+    ],
+    "thumbnail": "/images/property1_exterior.jpg",
+    "floorPlan": "/images/property1_floorplan.jpg",
+    "dateAdded": "2024-11-15"
   },
   {
     "id": 2,
-    "type": "flat",
+    "type": "Flat",
+    "title": "Modern 2-Bed Flat in Central London",
     "price": 280000,
     "bedrooms": 2,
-    "dateAdded": "2025-11-20",
+    "location": "Camden, London",
     "postcode": "NW1",
-    "title": "Modern 2-Bed Flat in Central London",
     "description": "Contemporary apartment in prime location",
     "longDescription": "Stylish 2-bedroom flat in the heart of London. Features include open-plan living, fitted kitchen, and secure parking. Close to transport links and amenities.",
-    "location": "Camden, London NW1",
     "images": [
-  "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
-  "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
-  "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
-  "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
-  "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
-  "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?w=600"
-
+      "/images/property2_exterior.jpg",
+      "/images/property2_livingroom.jpg",
+      "/images/property2_bedroom1.jpg",
+      "/images/property2_bedroom2.jpg",
+      "/images/property2_kitchen.jpg",
+      "/images/property2_bathroom.jpg",
+      "/images/property2_balcony_view.jpg"
+    ],
+    "thumbnail": "/images/property2_exterior.jpg",
+    "floorPlan": "/images/property2_floorplan.jpg",
+    "dateAdded": "2024-11-20"
   },
   {
     "id": 3,
-    "type": "house",
+    "type": "House",
+    "title": "Luxury 4-Bed House in Chelsea",
     "price": 650000,
     "bedrooms": 4,
-    "dateAdded": "2025-10-05",
+    "location": "Chelsea, London",
     "postcode": "SW3",
-    "title": "Luxury 4-Bed House in Chelsea",
     "description": "Elegant Victorian house with period features",
-    "longDescription": "Magnificent 4-bedroom Victorian property in prestigious Chelsea. Boasts original features, high ceilings, large reception rooms, and a beautiful private garden. Walking distance to King's Road.",
-    "location": "Chelsea, London SW3",
+    "longDescription": "Magnificent 4-bedroom Victorian property in prestigious Chelsea. Boasts original features, high ceilings, large reception rooms, and a beautiful private garden.",
     "images": [
-  "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
-  "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800",
-  "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
-  "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800",
-  "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800",
-  "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600"
-
+      "/images/property3_exterior.jpg",
+      "/images/property3_livingroom.jpg",
+      "/images/property3_bedroom1.jpg",
+      "/images/property3_bedroom2.jpg",
+      "/images/property3_bedroom3.jpg",
+      "/images/property3_bedroom4.jpg",
+      "/images/property3_kitchen.jpg"
+    ],
+    "thumbnail": "/images/property3_exterior.jpg",
+    "floorPlan": "/images/property3_floorplan.jpg",
+    "dateAdded": "2024-10-05"
   },
   {
     "id": 4,
-    "type": "flat",
+    "type": "Flat",
+    "title": "Studio Flat in Canary Wharf",
     "price": 195000,
     "bedrooms": 1,
-    "dateAdded": "2025-12-01",
+    "location": "Canary Wharf, London",
     "postcode": "E14",
-    "title": "Studio Flat in Canary Wharf",
     "description": "Perfect first-time buyer apartment",
-    "longDescription": "Modern studio flat in the heart of Canary Wharf. Perfect for young professionals. Features modern fixtures, good storage, and access to gym facilities. Excellent transport links to the City.",
-    "location": "Canary Wharf, London E14",
+    "longDescription": "Modern studio flat in the heart of Canary Wharf. Perfect for young professionals. Features modern fixtures, good storage, and access to gym facilities.",
     "images": [
-  "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
-  "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800",
-  "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800",
-  "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
-  "https://images.unsplash.com/photo-1556912167-f556f1f39faa?w=800",
-  "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?w=600"
-
+      "/images/property4_exterior.jpg",
+      "/images/property4_entrance.jpg",
+      "/images/property4_livingroom.jpg",
+      "/images/property4_livingroom2.jpg",
+      "/images/property4_livingroom3.jpg",
+      "/images/property4_study_corner.jpg"
+    ],
+    "thumbnail": "/images/property4_exterior.jpg",
+    "floorPlan": "/images/property4_floorplan.jpg",
+    "dateAdded": "2024-12-01"
   },
   {
     "id": 5,
-    "type": "house",
+    "type": "House",
+    "title": "Charming 2-Bed Cottage",
     "price": 320000,
     "bedrooms": 2,
-    "dateAdded": "2025-11-28",
+    "location": "Bromley, London",
     "postcode": "BR1",
-    "title": "Charming 2-Bed Cottage",
     "description": "Cozy cottage with garden in quiet area",
-    "longDescription": "Delightful 2-bedroom cottage in a peaceful location. Features include a modern kitchen, bright living room, and a lovely rear garden. Ideal for couples or small families seeking tranquility.",
-    "location": "Bromley, London BR1",
+    "longDescription": "Delightful 2-bedroom cottage in a peaceful location. Features include a modern kitchen, bright living room, and a lovely rear garden. Ideal for couples or small families.",
     "images": [
-  "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
-  "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800",
-  "https://images.unsplash.com/photo-1598228723793-52759bba239c?w=800",
-  "https://images.unsplash.com/photo-1592595896551-12b371d546d5?w=800",
-  "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=800",
-  "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600"
-
+      "/images/property5_exterior.jpg",
+      "/images/property5_livingroom.jpg",
+      "/images/property5_bedroom1.jpg",
+      "/images/property5_bedroom2.jpg",
+      "/images/property5_bathroom.jpg",
+      "/images/property5_toilet.jpg",
+      "/images/property5_view.jpg"
+    ],
+    "thumbnail": "/images/property5_exterior.jpg",
+    "floorPlan": "/images/property5_floorplan.jpg",
+    "dateAdded": "2024-11-28"
   },
   {
     "id": 6,
-    "type": "flat",
+    "type": "Flat",
+    "title": "Spacious 3-Bed Flat in Paddington",
     "price": 420000,
     "bedrooms": 3,
-    "dateAdded": "2025-09-15",
+    "location": "Paddington, London",
     "postcode": "W2",
-    "title": "Spacious 3-Bed Flat in Paddington",
     "description": "Family-sized apartment near Hyde Park",
-    "longDescription": "Generous 3-bedroom flat in Paddington, moments from Hyde Park. Features include a large living room, fitted kitchen, two bathrooms, and balcony. Perfect for families wanting central London living.",
-    "location": "Paddington, London W2",
+    "longDescription": "Generous 3-bedroom flat in Paddington, moments from Hyde Park. Features include a large living room, fitted kitchen, two bathrooms, and balcony.",
     "images": [
-  "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800",
-  "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
-  "https://images.unsplash.com/photo-1560185009-5bf9f2849488?w=800",
-  "https://images.unsplash.com/photo-1565623006069-f83geaa08f62?w=800",
-  "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=800",
-  "https://images.unsplash.com/photo-1574643156929-51fa098b0394?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?w=600"
-
+      "/images/property6_exterior.jpg",
+      "/images/property6_balcony.jpg",
+      "/images/property6_bathroom.jpg",
+      "/images/property6_bedroom_1.jpg",
+      "/images/property6_bedroom_2.jpg",
+      "/images/property6_bedroom_3.jpg",
+      "/images/property6_dining_area.jpg"
+    ],
+    "thumbnail": "/images/property6_exterior.jpg",
+    "floorPlan": "/images/property6_floorplan.jpg",
+    "dateAdded": "2024-09-15"
   },
   {
     "id": 7,
-    "type": "house",
+    "type": "House",
+    "title": "Stunning 5-Bed Family Home",
     "price": 890000,
     "bedrooms": 5,
-    "dateAdded": "2025-10-20",
+    "location": "Camden, London",
     "postcode": "NW1",
-    "title": "Stunning 5-Bed Family Home",
     "description": "Spacious detached house with driveway and garden",
-    "longDescription": "Impressive 5-bedroom detached family home in sought-after area. Features include multiple reception rooms, modern kitchen/diner, master suite, landscaped garden, and double garage. Perfect for growing families.",
-    "location": "Camden, London NW1",
+    "longDescription": "Impressive 5-bedroom detached family home in sought-after area. Features include multiple reception rooms, modern kitchen/diner, master suite, landscaped garden, and double garage.",
     "images": [
-  "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800",
-  "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800",
-  "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800",
-  "https://images.unsplash.com/photo-1623874514711-0f321325f318?w=800",
-  "https://images.unsplash.com/photo-1615873968403-89e068629265?w=800",
-  "https://images.unsplash.com/photo-1628012209120-61c99e13bef1?w=800"
-],
-"floorPlan": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600"
-
+      "/images/property7_exterior.jpg",
+      "/images/property7_livingroom.jpg",
+      "/images/property7_bedroom1.jpg",
+      "/images/property7_bedroom2.jpg",
+      "/images/property7_bedroom3.jpg",
+      "/images/property7_bedroom4.jpg",
+      "/images/property7_bathroom.jpg"
+    ],
+    "thumbnail": "/images/property7_exterior.jpg",
+    "floorPlan": "/images/property7_floorplan.jpg",
+    "dateAdded": "2024-10-20"
   }
 ]
