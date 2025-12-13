@@ -1,8 +1,21 @@
 import { useState } from 'react';
-import { Form, Button, Row, Col, Container } from 'react-bootstrap';
+import { Form, Button, Row, Col } from 'react-bootstrap';
 
-
+/**
+ * SearchForm Component
+ * Provides search interface with 5 criteria:
+ * - Property type (house/flat/any)
+ * - Price range (min/max)
+ * - Bedrooms (min/max)
+ * - Postcode area
+ * - Date range (from/to)
+ * 
+ * Uses React Bootstrap components for consistent UI
+ * 
+ * @param {Function} onSearch - Callback function to handle search submission
+ */
 function SearchForm({ onSearch }) {
+
   const [criteria, setCriteria] = useState({
     type: 'any',
     minPrice: '',
