@@ -1,0 +1,184 @@
+/* ===== AESTHETICS & VISUAL DESIGN ===== */
+
+/* Visual grouping and hierarchy */
+.page-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Search form styling - visual grouping */
+.search-container {
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2rem;
+}
+
+.search-container h2 {
+  color: #667eea;
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  border-bottom: 3px solid #667eea;
+  padding-bottom: 0.5rem;
+}
+
+/* Form field grouping */
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 0.5rem;
+}
+
+/* Property cards - consistent design */
+.property-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.property-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Visual hierarchy for prices */
+.price-highlight {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #28a745;
+  margin: 0.5rem 0;
+}
+
+/* Button styling - importance hierarchy */
+.btn-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  font-weight: 600;
+  padding: 0.6rem 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.btn-secondary {
+  font-weight: 600;
+  padding: 0.6rem 1.5rem;
+}
+
+/* Favorites section - clear separation */
+.favorites-sidebar {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border: 2px solid #667eea;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.favorites-sidebar h4 {
+  color: #667eea;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+/* Results section heading */
+.results-header {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1.5rem;
+}
+
+.results-header h3 {
+  color: #495057;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* Badge styling for visual scanning */
+.badge {
+  font-size: 0.85rem;
+  padding: 0.4rem 0.8rem;
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
+/* Image styling */
+.card-img-top {
+  border-bottom: 3px solid #667eea;
+}
+
+/* Alignment and spacing consistency */
+.section-divider {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #667eea, transparent);
+  margin: 2rem 0;
+}
+
+/* Property details page */
+.property-details-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.property-details-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.property-details-header h3 {
+  margin: 0.5rem 0 0 0;
+  font-weight: 600;
+}
+
+/* Tabs styling - visual hierarchy */
+.react-tabs__tab-list {
+  border-bottom: 3px solid #667eea;
+  margin-bottom: 1.5rem;
+}
+
+.react-tabs__tab {
+  font-weight: 600;
+  color: #495057;
+  padding: 1rem 1.5rem;
+}
+
+.react-tabs__tab--selected {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 8px 8px 0 0;
+}
+
+/* Image gallery styling */
+.image-gallery {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
