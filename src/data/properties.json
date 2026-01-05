@@ -10,16 +10,16 @@
     "description": "A beautiful 3-bedroom house in a quiet neighborhood",
     "longDescription": "This stunning 3-bedroom house offers spacious living areas, modern kitchen, and a lovely garden. Perfect for families looking for comfort and convenience.",
     "images": [
-      "/images/property1_exterior.jpg",
-      "/images/property1_livingroom.jpg",
-      "/images/property1_bedroom1.jpg",
-      "/images/property1_bedroom2.jpg",
-      "/images/property1_bedroom3.jpg",
-      "/images/property1_kitchen.jpg",
-      "/images/property1_bathroom.jpg"
+      "./images/property1_exterior.jpg",
+      "./images/property1_livingroom.jpg",
+      "./images/property1_bedroom1.jpg",
+      "./images/property1_bedroom2.jpg",
+      "./images/property1_bedroom3.jpg",
+      "./images/property1_kitchen.jpg",
+      "./images/property1_bathroom.jpg"
     ],
-    "thumbnail": "/images/property1_exterior.jpg",
-    "floorPlan": "/images/property1_floorplan.jpg",
+    "thumbnail": "./images/property1_exterior.jpg",
+    "floorPlan": "./images/property1_floorplan.jpg",
     "dateAdded": "2024-11-15"
   },
   {
@@ -33,16 +33,16 @@
     "description": "Contemporary apartment in prime location",
     "longDescription": "Stylish 2-bedroom flat in the heart of London. Features include open-plan living, fitted kitchen, and secure parking. Close to transport links and amenities.",
     "images": [
-      "/images/property2_exterior.jpg",
-      "/images/property2_livingroom.jpg",
-      "/images/property2_bedroom1.jpg",
-      "/images/property2_bedroom2.jpg",
-      "/images/property2_kitchen.jpg",
-      "/images/property2_bathroom.jpg",
-      "/images/property2_balcony_view.jpg"
+      "./images/property2_exterior.jpg",
+      "./images/property2_livingroom.jpg",
+      "./images/property2_bedroom1.jpg",
+      "./images/property2_bedroom2.jpg",
+      "./images/property2_kitchen.jpg",
+      "./images/property2_bathroom.jpg",
+      "./images/property2_balcony_view.jpg"
     ],
-    "thumbnail": "/images/property2_exterior.jpg",
-    "floorPlan": "/images/property2_floorplan.jpg",
+    "thumbnail": "./images/property2_exterior.jpg",
+    "floorPlan": "./images/property2_floorplan.jpg",
     "dateAdded": "2024-11-20"
   },
   {
@@ -56,16 +56,16 @@
     "description": "Elegant Victorian house with period features",
     "longDescription": "Magnificent 4-bedroom Victorian property in prestigious Chelsea. Boasts original features, high ceilings, large reception rooms, and a beautiful private garden.",
     "images": [
-      "/images/property3_exterior.jpg",
-      "/images/property3_livingroom.jpg",
-      "/images/property3_bedroom1.jpg",
-      "/images/property3_bedroom2.jpg",
-      "/images/property3_bedroom3.jpg",
-      "/images/property3_bedroom4.jpg",
-      "/images/property3_kitchen.jpg"
+      "./images/property3_exterior.jpg",
+      "./images/property3_livingroom.jpg",
+      "./images/property3_bedroom1.jpg",
+      "./images/property3_bedroom2.jpg",
+      "./images/property3_bedroom3.jpg",
+      "./images/property3_bedroom4.jpg",
+      "./images/property3_kitchen.jpg"
     ],
-    "thumbnail": "/images/property3_exterior.jpg",
-    "floorPlan": "/images/property3_floorplan.jpg",
+    "thumbnail": "./images/property3_exterior.jpg",
+    "floorPlan": "./images/property3_floorplan.jpg",
     "dateAdded": "2024-10-05"
   },
   {
@@ -79,15 +79,15 @@
     "description": "Perfect first-time buyer apartment",
     "longDescription": "Modern studio flat in the heart of Canary Wharf. Perfect for young professionals. Features modern fixtures, good storage, and access to gym facilities.",
     "images": [
-      "/images/property4_exterior.jpg",
-      "/images/property4_entrance.jpg",
-      "/images/property4_livingroom.jpg",
-      "/images/property4_livingroom2.jpg",
-      "/images/property4_livingroom3.jpg",
-      "/images/property4_study_corner.jpg"
+      "./images/property4_exterior.jpg",
+      "./images/property4_entrance.jpg",
+      "./images/property4_livingroom.jpg",
+      "./images/property4_livingroom2.jpg",
+      "./images/property4_livingroom3.jpg",
+      "./images/property4_study_corner.jpg"
     ],
-    "thumbnail": "/images/property4_exterior.jpg",
-    "floorPlan": "/images/property4_floorplan.jpg",
+    "thumbnail": "./images/property4_exterior.jpg",
+    "floorPlan": "./images/property4_floorplan.jpg",
     "dateAdded": "2024-12-01"
   },
   {
@@ -101,16 +101,16 @@
     "description": "Cozy cottage with garden in quiet area",
     "longDescription": "Delightful 2-bedroom cottage in a peaceful location. Features include a modern kitchen, bright living room, and a lovely rear garden. Ideal for couples or small families.",
     "images": [
-      "/images/property5_exterior.jpg",
-      "/images/property5_livingroom.jpg",
-      "/images/property5_bedroom1.jpg",
-      "/images/property5_bedroom2.jpg",
-      "/images/property5_bathroom.jpg",
-      "/images/property5_toilet.jpg",
-      "/images/property5_view.jpg"
+      "./images/property5_exterior.jpg",
+      "./images/property5_livingroom.jpg",
+      "./images/property5_bedroom1.jpg",
+      "./images/property5_bedroom2.jpg",
+      "./images/property5_bathroom.jpg",
+      "./images/property5_toilet.jpg",
+      "./images/property5_view.jpg"
     ],
-    "thumbnail": "/images/property5_exterior.jpg",
-    "floorPlan": "/images/property5_floorplan.jpg",
+    "thumbnail": "./images/property5_exterior.jpg",
+    "floorPlan": "./images/property5_floorplan.jpg",
     "dateAdded": "2024-11-28"
   },
   {
@@ -124,16 +124,16 @@
     "description": "Family-sized apartment near Hyde Park",
     "longDescription": "Generous 3-bedroom flat in Paddington, moments from Hyde Park. Features include a large living room, fitted kitchen, two bathrooms, and balcony.",
     "images": [
-      "/images/property6_exterior.jpg",
-      "/images/property6_balcony.jpg",
-      "/images/property6_bathroom.jpg",
-      "/images/property6_bedroom_1.jpg",
-      "/images/property6_bedroom_2.jpg",
-      "/images/property6_bedroom_3.jpg",
-      "/images/property6_dining_area.jpg"
+      "./images/property6_exterior.jpg",
+      "./images/property6_balcony.jpg",
+      "./images/property6_bathroom.jpg",
+      "./images/property6_bedroom_1.jpg",
+      "./images/property6_bedroom_2.jpg",
+      "./images/property6_bedroom_3.jpg",
+      "./images/property6_dining_area.jpg"
     ],
-    "thumbnail": "/images/property6_exterior.jpg",
-    "floorPlan": "/images/property6_floorplan.jpg",
+    "thumbnail": "./images/property6_exterior.jpg",
+    "floorPlan": "./images/property6_floorplan.jpg",
     "dateAdded": "2024-09-15"
   },
   {
@@ -147,16 +147,16 @@
     "description": "Spacious detached house with driveway and garden",
     "longDescription": "Impressive 5-bedroom detached family home in sought-after area. Features include multiple reception rooms, modern kitchen/diner, master suite, landscaped garden, and double garage.",
     "images": [
-      "/images/property7_exterior.jpg",
-      "/images/property7_livingroom.jpg",
-      "/images/property7_bedroom1.jpg",
-      "/images/property7_bedroom2.jpg",
-      "/images/property7_bedroom3.jpg",
-      "/images/property7_bedroom4.jpg",
-      "/images/property7_bathroom.jpg"
+      "./images/property7_exterior.jpg",
+      "./images/property7_livingroom.jpg",
+      "./images/property7_bedroom1.jpg",
+      "./images/property7_bedroom2.jpg",
+      "./images/property7_bedroom3.jpg",
+      "./images/property7_bedroom4.jpg",
+      "./images/property7_bathroom.jpg"
     ],
-    "thumbnail": "/images/property7_exterior.jpg",
-    "floorPlan": "/images/property7_floorplan.jpg",
+    "thumbnail": "./images/property7_exterior.jpg",
+    "floorPlan": "./images/property7_floorplan.jpg",
     "dateAdded": "2024-10-20"
   }
 ]
